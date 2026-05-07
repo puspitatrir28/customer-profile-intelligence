@@ -61,6 +61,7 @@ This dashboard is part of a group project analyzing the `dvdrental` PostgreSQL d
 | Spending Distribution | `screenshots/spending_dist.png` |
 | CLV Analysis | `screenshots/clv_analysis.png` |
 | Customer Drill Down | `screenshots/drill_down1.png` |
+| Customer Drill Down | `screenshots/drill_down2.png` |
 | Strategic Action Plan | `screenshots/action_plan.png` |
 
 ---
